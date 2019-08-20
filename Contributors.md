@@ -15,6 +15,7 @@
 - [Nilesh Patel](https://github.com/NileshSP)
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
+- [Salmane Tamo](https://github.com/stamo15)
 - MrMame
 - Devraj Singh Shekhawat
 - Ray
